@@ -1,0 +1,46 @@
+commit 9675fc666ce4b2fd3910ba71bbccc16311bb7146
+Author: mxtarzan <38332413+mxtarzan@users.noreply.github.com>
+Date:   Thu Apr 12 17:07:06 2018 -0400
+
+    Update README.md
+
+commit c2efa4f4a06a0f58b8016057b044d0a1630227bf
+Author: James McDermott <james_mcdermott@my.uri.edu>
+Date:   Thu Apr 12 16:59:01 2018 -0400
+
+    created hello world .cc file
+
+commit e85b13732558df96acb5dd641444ba76df757b68
+Author: James McDermott <james_mcdermott@my.uri.edu>
+Date:   Thu Apr 12 16:23:02 2018 -0400
+
+    updated readme
+
+commit 71c09b150fe717947d44691ab64f68572f87ef48
+Author: James McDermott <james_mcdermott@my.uri.edu>
+Date:   Thu Apr 12 15:44:54 2018 -0400
+
+    Initial commit
+commit 9675fc666ce4b2fd3910ba71bbccc16311bb7146
+Author: mxtarzan <38332413+mxtarzan@users.noreply.github.com>
+Date:   Thu Apr 12 17:07:06 2018 -0400
+
+    Update README.md
+
+commit c2efa4f4a06a0f58b8016057b044d0a1630227bf
+Author: James McDermott <james_mcdermott@my.uri.edu>
+Date:   Thu Apr 12 16:59:01 2018 -0400
+
+    created hello world .cc file
+
+commit e85b13732558df96acb5dd641444ba76df757b68
+Author: James McDermott <james_mcdermott@my.uri.edu>
+Date:   Thu Apr 12 16:23:02 2018 -0400
+
+    updated readme
+
+commit 71c09b150fe717947d44691ab64f68572f87ef48
+Author: James McDermott <james_mcdermott@my.uri.edu>
+Date:   Thu Apr 12 15:44:54 2018 -0400
+
+    Initial commit
